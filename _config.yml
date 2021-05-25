@@ -15,6 +15,7 @@ author: Moi-même
 
 navbar-links:
   About Me: "aboutme"
+  Formation: "formation"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
