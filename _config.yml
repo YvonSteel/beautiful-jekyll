@@ -15,7 +15,9 @@ author: Moi-même
 
 navbar-links:
   About Me: "aboutme"
-  Formation: "formation"
+  Formation: 
+    - Jekyll: "formation"
+    - Hyde: "https://fr.wikipedia.org/wiki/L%27%C3%89trange_Cas_du_docteur_Jekyll_et_de_M._Hyde"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
