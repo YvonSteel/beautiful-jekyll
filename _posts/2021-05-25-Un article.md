@@ -1,9 +1,12 @@
 ---
-layou: post
+layout: post
 title: Test de moi
 subtitle: Un petit test pour voir
 published: true
 ---
+
+Bonjour, ceci est une modification locale
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ultricies urna ut ipsum laoreet, at posuere nunc volutpat. Donec ultrices laoreet tincidunt. Cras orci dolor, sagittis id sapien dapibus, elementum accumsan ante. Nunc efficitur enim maximus, sodales leo at, euismod odio. Suspendisse ut risus nec ipsum mollis hendrerit eleifend feugiat dui. Mauris dui nunc, suscipit eu aliquet in, volutpat a metus. Sed ante ante, placerat vel venenatis nec, placerat non ante. Praesent non egestas enim. Donec tempus interdum ornare. Etiam vitae est vulputate, pharetra nisi a, tincidunt tellus. Donec ut nisi suscipit, viverra risus sit amet, rhoncus ipsum. Phasellus sit amet eros pulvinar, tincidunt ligula tincidunt, fringilla quam. In porttitor ipsum vitae porta posuere. Proin et augue eget massa bibendum pharetra. Pellentesque id maximus urna, id maximus dui.
 
 Sed interdum turpis ut feugiat faucibus. Sed lacinia enim eu odio rutrum fringilla. Etiam et porttitor sem, malesuada congue nisl. Aenean risus ligula, euismod id fringilla non, interdum in est. Nunc mollis efficitur nisl in viverra. Nulla facilisi. Aenean sed elit laoreet, dictum risus eu, tempus leo. Aliquam erat volutpat. Sed at massa purus. Vestibulum ut elementum odio. Proin accumsan feugiat venenatis.
